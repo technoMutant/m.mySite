@@ -127,5 +127,8 @@ h1 {
     height: 8.125rem;
     background-color: white;
   }
+  a{
+    font-size: 1.5rem;
+  }
 
 }
